@@ -3,6 +3,6 @@ class ApplicationController < ActionController::Base
 
 
   def good
-    render html: "good"
+    render html: "good moning"
   end
 end
